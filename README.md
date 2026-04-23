@@ -28,12 +28,23 @@ Disgust**.
 -   Streamlit
 
 ------------------------------------------------------------------------
-
 ## 📂 Project Structure
 
-emotion-tracker/ │── model/ │ └── emotion_model.keras │ │── src/ │ └──
-inference.py │ │── expression (1).ipynb │ │── app.py │──
-requirements.txt │── README.md
+```
+emotion-tracker/
+│
+├── model/
+│   └── emotion_model.keras
+│
+├── src/
+│   └── inference.py
+│
+├── expression (1).ipynb
+│
+├── app.py
+├── requirements.txt
+└── README.md
+```
 
 ------------------------------------------------------------------------
 
