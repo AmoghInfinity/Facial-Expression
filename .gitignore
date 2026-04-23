@@ -1,0 +1,28 @@
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# system files
+.DS_Store
+Thumbs.db
+
+# model files (optional - remove if you want to upload model)
+*.h5
+*.keras
+
+# large files / datasets
+data/
+*.csv
+*.zip
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# logs
+*.log
+
+# streamlit cache
+.streamlit/
